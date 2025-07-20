@@ -1,12 +1,36 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a ReactJS-based JSON Schema Builder built as part of the **HROne Frontend Intern Hiring Task**. The application allows users to dynamically create and manage a JSON schema by adding, editing, deleting, and nesting fields. It uses **React Hook Form** for form management and **Ant Design** (or ShadCN UI) for UI components.
 
-Currently, two official plugins are available:
+ 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 [Live App on vercel]([https://your-deployed-app-link.vercel.app])
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+ ✨ Features
+
+- ✅ Dynamically add new fields
+- ✅ Edit key/name of any field
+- ✅ Delete any field
+- ✅ Add nested fields (recursive nesting)
+- ✅ Support for types: `String`, `Number`, and `Nested`
+- ✅ Real-time JSON preview panel
+- ✅ Clean, component-based architecture
+- ✅ Ant Design or ShadCN UI for consistent styling
+
+---
+
+🧠 Tech Stack
+
+- ⚛️ **ReactJS**
+- 🎣 **React Hook Form**
+- 💅 **Ant Design** / **ShadCN UI**
+- 🧾 **JavaScript** (optionally TypeScript)
+- 🔄 **useState**, **recursive rendering**
+- 🧪 Optional: Vercel / Netlify deployment
+
+---
+
+Made By Sourish Panja
+
