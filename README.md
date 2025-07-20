@@ -1,5 +1,5 @@
 
-This is a ReactJS-based JSON Schema Builder built as part of the **HROne Frontend Intern Hiring Task**. The application allows users to dynamically create and manage a JSON schema by adding, editing, deleting, and nesting fields. It uses **React Hook Form** for form management and **Ant Design** (or ShadCN UI) for UI components.
+This is a ReactJS-based JSON Schema Builder built . The application allows users to dynamically create and manage a JSON schema by adding, editing, deleting, and nesting fields. It uses **React Hook Form** for form management and **Ant Design** (or ShadCN UI) for UI components.
 
  🚀 Live Demo
  
@@ -28,7 +28,7 @@ https://json-schema-builder-ashen.vercel.app/
 - 💅 **Ant Design** / **ShadCN UI**
 - 🧾 **JavaScript** (optionally TypeScript)
 - 🔄 **useState**, **recursive rendering**
-- 🧪 Optional: Vercel / Netlify deployment
+  
 
 ---
 
